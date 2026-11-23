@@ -1,11 +1,12 @@
 # Inframonitor
 
-Inframonitor is an infrastructure monitoring project.
+Inframonitor é um projeto para monitoramento
+de infraestrutura virtual Linux.
 
-## Getting started
+## Funcionalidades
 
-Add setup and usage instructions for the project here.
+Features estão sendo adicionadas.
 
-## License
+## Como executar
 
-Add the project's license information here.
+Acesse o ip do servidor na porta 5000 para acessar o dashboard.
